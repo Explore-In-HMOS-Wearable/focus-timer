@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "purple_gradient_1",
+      "value": "#B589D6"
+    },
+    {
+      "name": "purple_gradient_2",
+      "value": "#9969C7"
+    },
+    {
+      "name": "purple_gradient_3",
+      "value": "#804FB3"
+    },
+    {
+      "name": "purple_gradient_4",
+      "value": "#6A359C"
+    },
+    {
+      "name": "purple_gradient_5",
+      "value": "#552586"
+    }
+  ]
+}

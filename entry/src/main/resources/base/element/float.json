@@ -1,0 +1,44 @@
+{
+  "float": [
+    {
+      "name": "offset_zero",
+      "value": "0vp"
+    },
+    {
+      "name": "offset_0_2",
+      "value": "0.2vp"
+    },
+    {
+      "name": "offset_0_4",
+      "value": "0.4vp"
+    },
+    {
+      "name": "offset_0_6",
+      "value": "0.6vp"
+    },
+    {
+      "name": "offset_0_8",
+      "value": "0.8vp"
+    },
+    {
+      "name": "offset_one",
+      "value": "1vp"
+    },
+    {
+      "name": "margin_4",
+      "value": "4vp"
+    },
+    {
+      "name": "margin_8",
+      "value": "8vp"
+    },
+    {
+      "name": "margin_16",
+      "value": "16vp"
+    },
+    {
+      "name": "progress_font_size",
+      "value": "48fp"
+    }
+  ]
+}

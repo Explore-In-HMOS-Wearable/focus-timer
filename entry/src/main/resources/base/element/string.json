@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Focus Timer"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "skip",
+      "value": "Skip"
+    },
+    {
+      "name": "focus",
+      "value": "Focus"
+    },
+    {
+      "name": "break",
+      "value": "Break"
+    },
+    {
+      "name": "short_break",
+      "value": "Short Break"
+    },
+    {
+      "name": "long_break",
+      "value": "Long Break"
+    },
+    {
+      "name": "plus_five",
+      "value": "+5 Mins"
+    }
+  ]
+}
