@@ -20,7 +20,7 @@ export default struct ProgressRing {
         Progress({ value: this.timer.progress, total: this.timer.goal, type: ProgressType.Ring })
           .color(this._purpleGradient)
           .width(SizeConstants.FULL_WIDTH_PERCENT)
-          .style({ strokeWidth: $r('app.float.margin_16'), enableSmoothEffect: true, })
+          .style({ strokeWidth: $r('app.float.margin_16'), enableSmoothEffect: true})
           .padding($r('app.float.margin_16'))
       }
       .justifyContent(FlexAlign.Center)
